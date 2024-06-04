@@ -1,0 +1,18 @@
+Remark line goes here
+MASS
+o  16.000        0.434
+
+BOND
+o -o   141.40   1.430
+
+ANGLE
+
+DIHE
+
+IMPROPER
+
+NONBON
+  o           1.7107  0.1463
+
+
+

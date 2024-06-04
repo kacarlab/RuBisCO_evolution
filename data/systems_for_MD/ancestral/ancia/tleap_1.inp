@@ -1,0 +1,17 @@
+
+source ../../parameters/load_parameters.inp
+
+c = loadPDB ancia.ph8.pdb
+savepdb c ancia.ph8.amber.pdb
+saveamberparm c ancia.ph8.prmtop ancia.ph8.incprd
+
+addions c NA 0.15 
+addions c CL 0.15
+
+solvatebox c TIP3PBOX 10.0
+
+savepdb c ancia.ph8.w.pdb
+saveamberparm c ancia.ph8.w.prmtop ancia.ph8.w.rst
+
+quit
+

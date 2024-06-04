@@ -1,0 +1,17 @@
+
+source ../../parameters/load_parameters.inp
+
+c = loadPDB anci_o2_mix.pdb
+savepdb c anci_o2_mix.amber.pdb
+saveamberparm c anci_o2_mix.prmtop anci_o2_mix.incprd
+
+addions c NA 0.15 
+addions c CL 0.15
+
+solvatebox c TIP3PBOX 0.0
+
+savepdb c anci_o2_mix.w.pdb
+saveamberparm c anci_o2_mix.w.prmtop anci_o2_mix.w.inpcrd
+
+quit
+

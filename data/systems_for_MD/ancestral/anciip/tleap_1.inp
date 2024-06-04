@@ -1,0 +1,17 @@
+
+source ../../parameters/load_parameters.inp
+
+c = loadPDB anciip.ph8.pdb
+savepdb c anciip.ph8.amber.pdb
+saveamberparm c anciip.ph8.prmtop anciip.ph8.incprd
+
+addions c NA 0.15 
+addions c CL 0.15
+
+solvatebox c TIP3PBOX 10.0
+
+savepdb c anciip.ph8.w.pdb
+saveamberparm c anciip.ph8.w.prmtop anciip.ph8.w.rst
+
+quit
+

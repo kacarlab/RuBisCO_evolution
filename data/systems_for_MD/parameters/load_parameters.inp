@@ -1,0 +1,11 @@
+source leaprc.protein.ff14SB
+source leaprc.water.tip3p
+source leaprc.gaff2
+loadAmberPrep   ../../parameters/cabp.prepi
+loadAmberParams ../../parameters/cabp.frcmod
+loadAmberPrep   ../../parameters/kcx.prepin
+loadAmberParams ../../parameters/kcx.frcmod
+loadAmberPrep   ../../parameters/co2.prepi
+loadAmberParams ../../parameters/co2.frcmod
+loadAmberPrep   ../../parameters/o2.prepi
+loadAmberParams ../../parameters/o2.frcmod
