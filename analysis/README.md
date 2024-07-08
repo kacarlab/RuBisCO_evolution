@@ -7,4 +7,4 @@ Command for running the ploomber pipeline:
 
 - The pre-run results of the jupyter notebooks from the ploomber pipeline are in the `output` directory
 
-- Files for the MD-simulation used in these analyses are available at: `https://zenodo.org/records/12626901`
+- Files for the MD-simulation used in these analyses are available at: `https://zenodo.org/records/12626901`.
