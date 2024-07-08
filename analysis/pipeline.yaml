@@ -1,0 +1,48 @@
+tasks:
+
+  - source: 01-R23-RMSD.ipynb
+    product:
+      nb: output/out-01-R23-RMSD.ipynb
+      rmsd: output/exp01-rmsd.csv
+      avg_rmsd: output/exp01-avg-rmsd.csv
+
+    params:
+      md_reference_data: "{{ experiment_01 }}"
+
+  - source: 02-R23-RMSF.ipynb
+    product:
+      nb: output/out-02-R23-RMSF.ipynb
+      pdb_bfactor_map:  output/1bwv-RMSF.pdb
+      rbcs_rmsf: output/rbcs-rmsf.csv
+      rbcl_rmsf: output/rbcl-rmsf.csv
+      rbcl_alignment: 'output/rbcl.fasta'
+      rbcs_alignment: 'output/rbcs.fasta'
+
+    params:
+      md_reference_data: "{{ experiment_01 }}"
+
+  - source: 03-R23-RMSD-plot.ipynb
+    product:
+      nb: output/out-03-R23-RMSD-plot.ipynb
+
+    params: 
+      code_palette: "{{ color_codes }}"
+
+  - source: 04-R23-md-dimred.ipynb
+    product:
+      nb: output/out-04-R23-md-dimred.ipynb
+      singles_pca: output/singles-pca.json
+      joint_pca: output/joint-pca.json
+      joint_pca_variance: output/joint-pca-variance.csv
+
+    params:
+      md_reference_data: "{{ experiment_01 }}"
+
+  - source: 05-R23-gas-contacts.ipynb
+    product:
+      nb: output/out-05-R23-gas-contacts.ipynb
+      contacts_per_subunit: 'output/contacts.csv'
+
+    params: 
+      code_palette: "{{ color_codes }}"
+      md_reference_data: "{{ experiment_02 }}"

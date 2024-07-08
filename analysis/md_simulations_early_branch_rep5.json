@@ -1,0 +1,122 @@
+{
+    "6ura_md01":{
+        "dry_dcd": "6ura.exp01.md01.dry.dcd",
+        "dry_pdb": "6ura.exp01.md01.dry.pdb",
+        "parent": "6ura",
+        "time": "extant"
+    },
+    "6ura_md02":{
+        "dry_dcd": "6ura.exp01.md02.dry.dcd",
+        "dry_pdb": "6ura.exp01.md02.dry.pdb",
+        "parent": "6ura",
+        "time": "extant"
+    },
+    "6ura_md03":{
+        "dry_dcd": "6ura.exp01.md03.dry.dcd",
+        "dry_pdb": "6ura.exp01.md03.dry.pdb",
+        "parent": "6ura",
+        "time": "extant"
+    },
+    "6ura_md04":{
+        "dry_dcd": "6ura.exp01.md04.dry.dcd",
+        "dry_pdb": "6ura.exp01.md04.dry.pdb",
+        "parent": "6ura",
+        "time": "extant"
+    },
+    "6ura_md05":{
+        "dry_dcd": "6ura.exp01.md05.dry.dcd",
+        "dry_pdb": "6ura.exp01.md05.dry.pdb",
+        "parent": "6ura",
+        "time": "extant"
+    },
+    "anci_md01":{
+        "dry_dcd": "anci.exp01.md01.dry.dcd",
+        "dry_pdb": "anci.exp01.md01.dry.pdb",
+        "parent": "anci",
+        "time": "ancient"
+    },
+    "anci_md02":{
+        "dry_dcd": "anci.exp01.md02.dry.dcd",
+        "dry_pdb": "anci.exp01.md02.dry.pdb",
+        "parent": "anci",
+        "time": "ancient"
+    },
+    "anci_md03":{
+        "dry_dcd": "anci.exp01.md03.dry.dcd",
+        "dry_pdb": "anci.exp01.md03.dry.pdb",
+        "parent": "anci",
+        "time": "ancient"
+    },
+    "anci_md04":{
+        "dry_dcd": "anci.exp01.md04.dry.dcd",
+        "dry_pdb": "anci.exp01.md04.dry.pdb",
+        "parent": "anci",
+        "time": "ancient"
+    },
+    "anci_md05":{
+        "dry_dcd": "anci.exp01.md05.dry.dcd",
+        "dry_pdb": "anci.exp01.md05.dry.pdb",
+        "parent": "anci",
+        "time": "ancient"
+    },
+    "anciip_md01":{
+        "dry_dcd": "anciip.exp01.md01.dry.dcd",
+        "dry_pdb": "anciip.exp01.md01.dry.pdb",
+        "parent": "anciip",
+        "time": "ancient"
+    },
+    "anciip_md02":{
+        "dry_dcd": "anciip.exp01.md02.dry.dcd",
+        "dry_pdb": "anciip.exp01.md02.dry.pdb",
+        "parent": "anciip",
+        "time": "ancient"
+    },
+    "anciip_md03":{
+        "dry_dcd": "anciip.exp01.md03.dry.dcd",
+        "dry_pdb": "anciip.exp01.md03.dry.pdb",
+        "parent": "anciip",
+        "time": "ancient"
+    },
+    "anciip_md04":{
+        "dry_dcd": "anciip.exp01.md04.dry.dcd",
+        "dry_pdb": "anciip.exp01.md04.dry.pdb",
+        "parent": "anciip",
+        "time": "ancient"
+    },
+    "anciip_md05":{
+        "dry_dcd": "anciip.exp01.md05.dry.dcd",
+        "dry_pdb": "anciip.exp01.md05.dry.pdb",
+        "parent": "anciip",
+        "time": "ancient"
+    },
+    "ancip_md01":{
+        "dry_dcd": "ancip.exp01.md01.dry.dcd",
+        "dry_pdb": "ancip.exp01.md01.dry.pdb",
+        "parent": "ancip",
+        "time": "ancient"
+    },
+    "ancip_md02":{
+        "dry_dcd": "ancip.exp01.md02.dry.dcd",
+        "dry_pdb": "ancip.exp01.md02.dry.pdb",
+        "parent": "ancip",
+        "time": "ancient"
+    },
+    "ancip_md03":{
+        "dry_dcd": "ancip.exp01.md03.dry.dcd",
+        "dry_pdb": "ancip.exp01.md03.dry.pdb",
+        "parent": "ancip",
+        "time": "ancient"
+    },
+    "ancip_md04":{
+        "dry_dcd": "ancip.exp01.md04.dry.dcd",
+        "dry_pdb": "ancip.exp01.md04.dry.pdb",
+        "parent": "ancip",
+        "time": "ancient"
+    },
+    "ancip_md05":{
+        "dry_dcd": "ancip.exp01.md05.dry.dcd",
+        "dry_pdb": "ancip.exp01.md05.dry.pdb",
+        "parent": "ancip",
+        "time": "ancient"
+    }
+}

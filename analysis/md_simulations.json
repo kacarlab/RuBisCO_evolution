@@ -1,0 +1,62 @@
+{
+    "1bwv":{
+        "dry_dcd": "1bwv.exp01.md01.dry.dcd",
+        "dry_pdb": "1bwv.exp01.md01.dry.pdb",
+        "time": "extant"
+    },
+    "3zxw":{
+        "dry_dcd": "3zxw.exp01.md01.dry.dcd",
+        "dry_pdb": "3zxw.exp01.md01.dry.pdb",
+        "time": "extant"
+    },
+    "6ftl":{
+        "dry_dcd": "6ftl.exp01.md01.dry.dcd",
+        "dry_pdb": "6ftl.exp01.md01.dry.pdb",
+        "time": "extant"
+    },
+    "6ura":{
+        "dry_dcd": "6ura.exp01.md01.dry.dcd",
+        "dry_pdb": "6ura.exp01.md01.dry.pdb",
+        "time": "extant"
+    },
+    "8ruc":{
+        "dry_dcd": "8ruc.exp01.md01.dry.dcd",
+        "dry_pdb": "8ruc.exp01.md01.dry.pdb",
+        "time": "extant"
+    },
+    "anci":{
+        "dry_dcd": "anci.exp01.md01.dry.dcd",
+        "dry_pdb": "anci.exp01.md01.dry.pdb",
+        "time": "ancient"
+    },
+    "anciab":{
+        "dry_dcd": "anciab.exp01.md01.dry.dcd",
+        "dry_pdb": "anciab.exp01.md01.dry.pdb",
+        "time": "ancient"
+    },
+    "ancicd":{
+        "dry_dcd": "ancicd.exp01.md01.dry.dcd",
+        "dry_pdb": "ancicd.exp01.md01.dry.pdb",
+        "time": "ancient"
+    },
+    "ancia":{
+        "dry_dcd": "ancia.exp01.md01.dry.dcd",
+        "dry_pdb": "ancia.exp01.md01.dry.pdb",
+        "time": "ancient"
+    },
+    "ancib":{
+        "dry_dcd": "ancib.exp01.md01.dry.dcd",
+        "dry_pdb": "ancib.exp01.md01.dry.pdb",
+        "time": "ancient"
+    },
+    "anciip":{
+        "dry_dcd": "anciip.exp01.md01.dry.dcd",
+        "dry_pdb": "anciip.exp01.md01.dry.pdb",
+        "time": "ancient"
+    },
+    "ancip":{
+        "dry_dcd": "ancip.exp01.md01.dry.dcd",
+        "dry_pdb": "ancip.exp01.md01.dry.realigned.pdb",
+        "time": "ancient"
+    }
+}
