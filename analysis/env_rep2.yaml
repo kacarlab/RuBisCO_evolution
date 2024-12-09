@@ -1,0 +1,76 @@
+color_codes:
+  6ftl: "#5e93f5"
+  3zxw: "#976cd2"
+  8ruc: "#976cd2"
+  1bwv: "#75eda7"
+  7snv: "#75eda7"
+  6ura: "#91da48"
+  anciip: gray
+  anci: gray
+  anciab: gray
+  ancicd: gray
+  ancia: gray
+  ancib: gray
+  ancip: gray
+
+experiment_01: 
+  1bwv:
+    dry_dcd: "1bwv.250ns.md01.stride_4.dry.dcd"
+    dry_pdb: "1bwv.250ns.md01.dry.rechained.pdb"
+    time: "extant"
+  3zxw:
+    dry_dcd: "3zxw.250ns.md01.stride_4.dry.dcd"
+    dry_pdb: "3zxw.250ns.md01.dry.rechained.pdb"
+    time: "extant"
+  6ftl:
+    dry_dcd: "6ftl.250ns.md01.stride_4.dry.dcd"
+    dry_pdb: "6ftl.250ns.md01.dry.rechained.pdb"
+    time: "extant"
+  6ura:
+    dry_dcd: "6ura.250ns.md01.stride_4.dry.dcd"
+    dry_pdb: "6ura.250ns.md01.dry.rechained.pdb"
+    time: "extant"
+  7snv:
+    dry_dcd: "7snv.250ns.md01.stride_4.dry.dcd"
+    dry_pdb: "7snv.250ns.md01.dry.rechained.pdb"
+    time: "extant"
+  8ruc:
+    dry_dcd: "8ruc.250ns.md01.stride_4.dry.dcd"
+    dry_pdb: "8ruc.250ns.md01.dry.rechained.pdb"
+    time: "extant"
+  9rub:
+    dry_dcd: "9rub.250ns.md01.stride_4.dry.dcd"
+    dry_pdb: "9rub.250ns.md01.dry.rechained.pdb"
+    time: "extant"
+  anci:
+    dry_dcd: "anci.250ns.md01.dry.dcd"
+    dry_pdb: "anci.250ns.md01.dry.rechained.pdb"
+    time: "ancient"
+  anciab:
+    dry_dcd: "anciab.250ns.md01.dry.dcd"
+    dry_pdb: "anciab.250ns.md01.dry.rechained.pdb"
+    time: "ancient"
+  ancicd:
+    dry_dcd: "ancicd.250ns.md01.dry.dcd"
+    dry_pdb: "ancicd.250ns.md01.dry.rechained.pdb"
+    time: "ancient"
+  ancia:
+    dry_dcd: "ancia.250ns.md01.dry.dcd"
+    dry_pdb: "ancia.250ns.md01.dry.rechained.pdb"
+    time: "ancient"
+  ancib:
+    dry_dcd: "ancib.250ns.md01.dry.dcd"
+    dry_pdb: "ancib.250ns.md01.dry.rechained.pdb"
+    time: "ancient"
+  anciip:
+    dry_dcd: "anciip.250ns.md01.dry.dcd"
+    dry_pdb: "anciip.250ns.md01.dry.rechained.pdb"
+    time: "ancient"
+  ancip:
+    dry_dcd: "ancip.250ns.md01.dry.dcd"
+    dry_pdb: "ancip.250ns.md01.dry.rechained.pdb"
+    time: "ancient"
+  anci-wo-ssu:
+    dry_dcd: "anci_wo_ssu.250ns.md01.dry.dcd"
+    dry_pdb: "anci_wo_ssu.250ns.md01.dry.rechained.pdb"
+    time: "ancient"

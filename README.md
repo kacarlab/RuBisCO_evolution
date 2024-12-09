@@ -23,7 +23,7 @@ To install the environment, run:
 
 The molecular dynamics simulations require either a very powerful CPU server or a high-end GPU. \
 As they take hundreds of computing hours to run these simulations, and the resulting files are heavier, we provide an streamlined version of our analysis where data values have been extracted from the simulations.	\
-The simulation files themselves are uploaded at: `https://zenodo.org/records/12626901`
+The simulation files themselves are uploaded at: `https://zenodo.org/records/14187581`
 
 ## Contact
 For any queries or issues:	\
